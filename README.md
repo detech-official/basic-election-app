@@ -1,1 +1,1 @@
-# simple-voting-app
+# Simple Voting App
