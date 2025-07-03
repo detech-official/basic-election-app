@@ -1,4 +1,4 @@
-# Simple Voting App
+# Basic Election App
 
 Some description.
 
