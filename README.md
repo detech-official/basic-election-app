@@ -1,3 +1,11 @@
 # Simple Voting App
 
-s
+
+## Files 
+
+project/ 
+├── docs/ 
+│   └── README.md 
+├── docs/ 
+│   └── README.md 
+└── README.md 
