@@ -1,6 +1,6 @@
 # Basic Election App
 
-Some description.
+Some description. 
 
 --- 
 
