@@ -1,12 +1,28 @@
 # Simple Voting App
 
 
-## Files 
+## 📁 Files 
 ```bash
-project/ 
-├── docs/ 
+election-system/ 
+├── database/ 
+│   ├── PostgreSQL-versions/
+│   │   └── README.md 
 │   └── README.md 
-├── docs/ 
+├── admin-app/ 
+│   ├── codeigniter/
+│   │   └── README.md 
+│   └── README.md 
+├── voter-app/ 
+│   ├── fastapi/
+│   │   └── README.md 
+│   ├── react/
+│   │   └── README.md 
+│   └── README.md 
+├── result-app/ 
+│   ├── express/
+│   │   └── README.md 
+│   ├── html-vanilla/
+│   │   └── README.md 
 │   └── README.md 
 └── README.md 
 ```
