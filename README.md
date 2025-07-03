@@ -1,5 +1,8 @@
 # Simple Voting App
 
+Some description.
+
+--- 
 
 ## 📁 Files 
 ```bash
@@ -26,3 +29,5 @@ election-system/
 │   └── README.md 
 └── README.md 
 ```
+
+--- 
